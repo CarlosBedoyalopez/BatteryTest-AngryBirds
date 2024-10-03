@@ -1,2 +1,2 @@
-# BatteryTest-AngryBirds
+# TestPlans-Móvil
 Battery test version spanish and english 
